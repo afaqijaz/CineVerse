@@ -1,0 +1,6 @@
+{
+  "name": "CineVerse Global",
+  "description": "Global streaming & media discovery app across movies and TV shows worldwide with deep filtering, watchlists, trailers, and multi-language catalog.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
